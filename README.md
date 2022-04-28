@@ -1,4 +1,4 @@
-# -TI2-Exercicio03
+# TI2-Exercicio03
 
 Esta é a tarefa Exercício 3: Integração Spark, uma atividade prática individual que estimula o aluno a criar um programa em Java utilizando o ambiente Eclipse e SGBDR PostgreSQL para implementar um back-end de aplicação Web utilizando o framework Spark.
 
